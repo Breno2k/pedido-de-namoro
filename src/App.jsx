@@ -6,18 +6,13 @@ import Mensagens from './components/Mensagens'
 // Imagens
 import img1 from './assets/snoopy_coracao.gif'
 import img2 from './assets/imagem2.jpg'
-import img3 from './assets/imagem3.jpg'
-import img4 from './assets/imagem4.jpg'
 import img5 from './assets/imagem5.jpg'
 import img6 from './assets/imagem6.jpg'
 import img7 from './assets/imagem7.jpg'
-import img8 from './assets/imagem8.jpg'
-import img9 from './assets/imagem9.jpg'
 import img14 from './assets/imagem14.jpg'
 import img10 from './assets/imagem10.jpg'
 import img11 from './assets/imagem11.jpg'
 import img12 from './assets/imagem12.jpg'
-import img15 from './assets/imagem15.jpg'
 import video2 from './assets/Video2.mp4'
 
 function App() {
