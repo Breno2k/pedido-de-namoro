@@ -36,7 +36,7 @@ function App() {
       <Mensagens text="Layla" />
       <Mensagens text="Você aceita namorar comigo ?" />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
